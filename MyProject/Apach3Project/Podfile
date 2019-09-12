@@ -1,0 +1,8 @@
+
+flutter_application_path = '../flutter_module_for_ios/'
+load File.join(flutter_application_path, '.ios', 'Flutter', 'podhelper.rb')
+
+target 'Apach3Project' do
+  use_frameworks!
+  install_all_flutter_pods(flutter_application_path)
+end

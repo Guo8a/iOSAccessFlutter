@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-FlutterPodTest/Pods-FlutterPodTest-frameworks.sh
+${PODS_ROOT}/../../MyFlutterPod/ios_frameworks/Flutter.framework
+${PODS_ROOT}/../../MyFlutterPod/ios_frameworks/App.framework
